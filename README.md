@@ -11,8 +11,10 @@ $ git clone https://github.com/thithips/desafio-front-end-mks.git
 
 ### Para executar o projeto digite
 $ npm run dev
-- Clique aqui para acessar o deploy da aplicação 
+
 <a href="https://vercel.com/thithips/desafio-front-end-mks">
+- Clique aqui para acessar o deploy da aplicação 
+  
 ### Tecnologias utilizadas
 - React
 - Styled components
