@@ -5,19 +5,19 @@ A inicialização do projeto ocorre com os seguintes passos:
 $ git clone https://github.com/thithips/desafio-front-end-mks.git
 
 ### Execute o seguinte comando no terminal para instalar as dependências
-$ npm i
-ou
-$ npm install
+- $ npm i
+- ou
+- $ npm install
 
 ### Para executar o projeto digite
 $ npm run dev
 
 ### Tecnologias utilizadas
-React
-Styled components
-Axios
-Redux
-Vercel
+- React
+- Styled components
+- Axios
+- Redux
+- Vercel
 
 ### Developer 
 Thiago Pereira  
