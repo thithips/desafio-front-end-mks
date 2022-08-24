@@ -14,13 +14,6 @@ $ npm run dev
 
 <a href="https://desafio-front-end-h21xe77js-thithips.vercel.app/">
 - Clique aqui para acessar o deploy da aplicação 
-  
-### Tecnologias utilizadas
-- React
-- Styled components
-- Axios
-- Redux
-- Vercel
 
 ### Developer 
-Thiago Pereira  
+- Thiago Pereira  
